@@ -1,5 +1,5 @@
 # python-interview-atoz
-The Repo consists of two sections : 
+The Repo consists of following two sections : 
 1. Python programming 
 2. Cracking the coding interview
 
