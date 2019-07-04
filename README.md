@@ -54,3 +54,9 @@ The Repo consists of following two sections :
 			§ Merge sort 
 			§ Quick soft  
 
+
+
+Contributers : 
+- Phanidhar
+- Dyuthi Ram
+- Aruna P
