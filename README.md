@@ -1,10 +1,17 @@
 # python-interview-atoz
-The Repo consists of following two sections : 
-1. Python programming 
-2. Cracking the coding interview
+**The Repo consists of following sections :** 
 
-1 : Python Programming 
+1. Python Programming basics
+2.  Object Oriented Python
+3. Data structures & Algorithms 
+4. Multi-threading in Python 
+5. The Design patterns 
+
+
+
+1 : Python Programming basics
 --------------------------------------------------------------
+
 	1. Interpreter 
 		○ "Hello world" 
 		○ How python code executes.  
@@ -25,15 +32,26 @@ The Repo consists of following two sections :
 		○ Lambda
 		○ Zip, enumerate
 		○ Map, filter 
-	6. Object oriented programming 
-		○ Abstraction 
-		○ Inheritance
-		○ Operation overloading 
-		○ Iterators & Generators 
-	  	o Decorators* 
 
 
-2 : Coding Interview 
+
+## 2 : Object Oriented Python
+
+```
+1. Abstraction 
+
+2. Inheritance 
+
+3. Operation overloading 
+
+4. Iterators & Generators 
+
+5. Decorators 
+```
+
+
+
+3 : Data structures & Algorithms 
 -----------------------------------------------------------------------
 
 	1. How to approach a coding interview question 
@@ -46,17 +64,75 @@ The Repo consists of following two sections :
 		○ Graphs 
 	3. Algorithms 
 		○ Searching 
-	    	§ Binary search 
-			§ Breadth-first search 
-			§ Depth-first search 
+	    	- Binary search 
+			- Breadth-first search 
+			- Depth-first search 
 		○ Sorting 
-			§ Elementary sorting technique 
-			§ Merge sort 
-			§ Quick soft  
+			- Elementary sorting technique 
+			- Merge sort 
+			- Quick soft  
 
 
 
-Contributers : 
-- Phanidhar
-- Dyuthi Ram
-- Aruna P
+## 4 : Multi-threading in Python 
+
+```
+1. Parallel computing in Python 
+	○ Memory organization 
+	○ Parallel programming 
+	○ Working with process & threads in Python 
+
+2. Thread-level parallelism 
+	○ Creating a thread 
+	○ Thread synchronization 
+		- Locks & RLocks
+		- Semaphores 
+		- Conditions 
+		- Events 
+		
+	○ Using the "with" statement 
+	○ Queues & Thread communication 
+	○ Evaluating the performance 
+	
+
+3. Process-level parallelism 
+	○ Creating a process 
+		- Naming, Running & Killing 
+	○ Exchange objects btw processes 
+	○ Synchronization process 
+	○ Managing states 
+	○ Process pool 
+	○ Avoiding dead-locks 
+	
+4. Asynchronous Programming 
+	
+```
+
+
+
+## 5 : The Design Patterns 
+
+```
+1. Understanding Design Patterns 
+2. Creational Patterns 
+	○ Factory, Abstract Factory 
+	○ Singleton 
+	○ Builder 
+	○ Prototype 
+	
+3. Structural Patterns 
+	○ Decorator 
+	○ Proxy 
+	○ Adapter 
+	○ Composite 
+	○ Bridge 
+	
+4. Behavioral Patterns 
+	○ Observer 
+	○ Visitor 
+	○ Iterator 
+	○ Strategy 
+	○ Chain of responisibility 
+	
+```
+
